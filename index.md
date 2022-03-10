@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Project_test
 
-You can use the [editor on GitHub](https://github.com/zhuojinj/project_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Embedding a picture:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Waffle Cone Ice Cream Tacos. <a href="https://t.co/3LhTeMUZdR">pic.twitter.com/3LhTeMUZdR</a></p>&mdash; Food Porn (@FoodPornsx) <a href="https://twitter.com/FoodPornsx/status/1501679260641153031?ref_src=twsrc%5Etfw">March 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhuojinj/project_test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
